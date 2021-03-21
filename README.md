@@ -15,8 +15,8 @@
      bash install.sh
      bash Spade 
      bash Spade /root/example.apk
-# Mis redes sociales
-     Instagram ->    http://www.instagram.com/loathfaith
+# My Social Accounts
+     ## Instagram ->    https://www.instagram.com/loathfaith
      Facebook  ->    https://www.facebook.com/loathfaith13
      Twitter   ->    https://www.twitter.com/jeopardy4u
  
