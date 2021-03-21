@@ -9,7 +9,7 @@
 
 # Installation
      cd ~
-     git clone https://github.com/Cesar-Hack-Gray/Spade
+     git clone https://github.com/loathsomeguy/Spade
      cd Spade
      ls
      bash install.sh
