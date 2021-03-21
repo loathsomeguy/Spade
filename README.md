@@ -16,11 +16,9 @@
      bash Spade 
      bash Spade /root/example.apk
 # Mis redes sociales
-     YouTube   ->    http://youtube.com/c/CésarHackGray_Y_Miickeyy
-     Facebook  ->    Cesar Hack Gray
-     Telegram  ->    https://t.me/CesarGray
-     Grupo     ->    https://t.me/CesarHackGray
-     Mi web    ->    https://www.CesarHackGray.com
+     Instagram ->    http://www.instagram.com/loathfaith
+     Facebook  ->    https://www.facebook.com/loathfaith13
+     Twitter   ->    https://www.twitter.com/jeopardy4u
  
      
 # Example
